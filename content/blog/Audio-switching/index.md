@@ -61,7 +61,7 @@ That's the beauty of personal automation projects. They're rarely about efficien
 
 ## The Code
 
-Threw it on [GitHub](https://github.com/yourusername/fedora-audio-automation) for anyone else who's tired of clicking buttons. It's heavily commented because future me will forget how any of this works.
+Threw it on [GitHub](https://github.com/Tlamir/fedora-audio-automation) for anyone else who's tired of clicking buttons. It's heavily commented because future me will forget how any of this works.
 
 Works on any Fedora system with PipeWire or PulseAudio. Just update the device names for your hardware.
 
