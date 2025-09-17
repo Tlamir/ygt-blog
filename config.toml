@@ -279,6 +279,7 @@ encode_plaintext_email = true  # Setting is ignored if email is already encoded.
      { name = "instagram", url = "https://www.instagram.com/yigithanguvn/", icon = "instagram" },
      { name = "LinkedIn", url = "https://www.linkedin.com/in/yigithanguven", icon = "linkedin" },
      { name = "X", url = "https://x.com/Wayteldarpick", icon = "x" },
+     { name = "backloggd", url = "https://backloggd.com/u/Tlamir/", icon = "backloggd"},
      { name = "Bluesky", url = "https://bsky.app/profile/yigithanguven.bsky.social", icon = "bluesky" },
 
      #{ name = "youtube", url = "https://youtube.com/@oskerwyld", icon = "youtube" },
