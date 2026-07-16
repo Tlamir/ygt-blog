@@ -67,7 +67,7 @@ Godot works well with the agentic coding tools I use. Its scripts and project fi
 
 However, I never let AI control the direction of development. I keep the architecture, priorities, and design decisions in my own hands.
 
-Koshy John explains this well in AI Should Elevate Your Thinking, Not Replace It. AI can support the work, but it should not own the thinking behind it.
+Koshy John explains this well in [AI Should Elevate Your Thinking, Not Replace It](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/). AI can support the work, but it should not own the thinking behind it.
 
 Godot fits the kind of development I want to do. It gives me enough control to experiment with game technology without turning engine development into the whole project.
 
