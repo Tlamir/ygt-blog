@@ -10,8 +10,8 @@ max_posts = 5
 
 
 
-Hello, I’m Yigithan, a Software Engineer passionate about technology and solving challenging problems. I currently work on **graphics programming** and **C++**, while exploring other areas of development. Over the years, I’ve worked on projects using different languages, tools, and platforms, gaining experience across multiple domains.
+Hello, I’m Yigithan, a software engineer with a background in game development and an interest in C++, graphics programming, game design, and AI assisted development.
 
-Beyond coding, I enjoy video games, coffee, and exploring technology in all its forms. This blog is where I share my projects, experiments, and insights, from development challenges to personal hobbies.
+I’m currently developing my own 3D game in Godot, working on gameplay systems, balance, level design, and technical implementation while exploring agentic coding tools as part of my workflow.
 
-I'm always open to discussions, interesting projects, and collaboration opportunities. Feel free to reach out.
+Beyond coding, I enjoy video games, coffee, and exploring technology. I prefer a simple, minimalist approach to both my work and daily life. This blog is where I share my projects, experiments, development challenges, and personal interests.
