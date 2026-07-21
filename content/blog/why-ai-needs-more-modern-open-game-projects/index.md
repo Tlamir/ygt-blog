@@ -3,9 +3,6 @@ title = "Why AI Needs More Modern Open Game Projects"
 date = 2026-07-22
 description = "What using AI in a real Godot project reveals about the lack of complete modern open game projects."
 tags = ["AI", "Game Development", "Godot", "Game Engines", "Open Source"]
-
-[extra]
-toc = true
 +++
 
 AI can write game code, but game development is more than code.
@@ -60,7 +57,7 @@ Basic UI is possible, but it needs a strict Markdown guide and an existing theme
 
 It can create simple animations. They are not perfect, but they can work as a starting point.
 
-I started using report Markdown files after seeing the workflow in a Cherno video. Codex handles them well. It can record what changed, what still needs work and what the next agent should know.
+I started using report Markdown files after seeing the workflow in a [Cherno video](https://www.youtube.com/watch?v=A4aLYwtpyes&t). Codex handles them well. It can record what changed, what still needs work and what the next agent should know.
 
 I also keep asset licences in a separate Markdown file. Codex can update it when it downloads, edits or adds an asset.
 
