@@ -7,7 +7,7 @@ tags = ["AI", "Game Development", "Godot", "Game Engines", "Open Source"]
 
 AI can write game code, but game development is more than code.
 
-I have worked on game projects with Unity, and I am now developing my own 3D game in Godot while experimenting with AI coding agents.
+I am developing my own 3D game in Godot while experimenting with AI coding agents.
 
 In my project, AI performs well when a task is narrow and easy to verify. Once the task requires visual judgment, game feel, balance or an understanding of the whole project, the quality drops quickly.
 
