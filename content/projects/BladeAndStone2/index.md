@@ -17,7 +17,7 @@ local_image = "img/bs2.png"
 
 A **top-down roguelike** built in C++ showcasing modern game development with Raylib, Box2D, and LDtk integration.
 
-{{ admonition(type="tip", text="Play the web version on [itch.io](https://tlamir.itch.io/blade-and-stone-2) or download the Windows build from GitHub releases.") }}
+{{< admonition type="tip" text="Play the web version on [itch.io](https://tlamir.itch.io/blade-and-stone-2) or download the Windows build from GitHub releases." />}}
 
 ## What It Is
 

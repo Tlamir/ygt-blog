@@ -19,7 +19,7 @@ jobs:
           submodules: true
 
       - name: build_and_deploy
-        uses: shalzz/zola-deploy-action@v0.19.2
+        uses: shalzz/zola-deploy-action@v0.23.6
         env:
           PAGES_BRANCH: gh-pages
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
